@@ -35,4 +35,4 @@ tidy<- a subset of the other column titles to separate them from gravityMean
 
 tidier<- command to arrange the new "tidy" variable data.frame by subject and activity for easier searching      
 
-genlevels<- mixed numeric vector of the subjects who aren't missing (whose values weren't recorded in the angle() variables)
+genlevels<- mixed numeric vector of the subjects who aren't missing (the only ones whose values were recorded in the angle() variables)
